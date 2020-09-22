@@ -1,2 +1,2 @@
-# Dev---Java
+# Dev-Java
 Exercícios / aprendizado
